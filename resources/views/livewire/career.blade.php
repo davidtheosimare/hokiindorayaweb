@@ -1,5 +1,6 @@
 <div>
-    <section class="pb-0 overflow-hidden top-space-padding bg-gradient-very-light-gray position-relative lg-pb-30px">
+    @livewire('section.maintenance')
+    {{-- <section class="pb-0 overflow-hidden top-space-padding bg-gradient-very-light-gray position-relative lg-pb-30px">
         <div class="container h-100">
             <div class="position-absolute top-120px left-40 animation-rotation d-none d-xl-block">
                 <img src="https://placehold.co/117x100" data-bottom-top="transform: rotate(-50deg) translateY(-50px)" data-top-bottom="transform:rotate(10deg) translateY(50px)" alt="">
@@ -363,7 +364,7 @@
             </div>
         </div>
     </section>
-    <!-- end section -->
+    <!-- end section --> --}}
 
 
 

@@ -1,5 +1,6 @@
 <div>
-    <section class="p-0 overflow-hidden top-space-margin bg-very-light-gray page-title-big-typography">
+    @livewire('section.maintenance')
+    {{-- <section class="p-0 overflow-hidden top-space-margin bg-very-light-gray page-title-big-typography">
         <div class="p-0 container-fluid">
             <div class="row justify-content-center small-screen sm-h-400px g-0">
                 <div class="text-center text-white col-md-6 d-flex justify-content-center flex-column ps-7 pe-15px sm-ps-15px cover-background text-md-start page-title-large" style="background-image: url('images/demo-green-energy-about-title-left-bg-01.jpg');" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
@@ -612,5 +613,5 @@
             </div>
         </div>
     </section>
-    <!-- end section -->
+    <!-- end section --> --}}
 </div>

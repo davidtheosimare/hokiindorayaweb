@@ -1,8 +1,28 @@
+<div>
+    <section data-parallax-background-ratio="0.5" style="background-image: url('/assets/images/new/cta-bg.jpg'); background-position: 50% 42.5391px;">
+        <div class="opacity-medium bg-slate-blue"></div>
+        <div class="container position-relative">
+            <div class="row align-items-center justify-content-center">
+                <!-- start footer column -->
+                <div class="text-center col-xl-6 text-xl-start lg-mb-30px">
+                    <h3 class="text-white mb-5px fw-600 ls-minus-1px">Dapatkan Layanan Konsultasi</h3>
+                    <span class="fs-19 widget-text fw-300">Kami Siap Menyediakan Kebutuhan Anda Kapanpun. Hubungi Kami Tanpa Ragu!</span>
+                </div>
+                <!-- end footer column -->
+                <!-- start footer column -->
+                <div class="text-center col-xl-6 text-xl-end">
+                    <a href="#" class="align-middle btn btn-extra-large btn-white left-icon btn-box-shadow btn-rounded text-transform-none fw-600 primary-font ls-0px d-inline-block me-15px xs-m-10px"><i class="feather icon-feather-send"></i>Live Chat</a>
+                    <a href="https://wa.link/f22nwe" class="align-middle btn btn-extra-large btn-gradient-pink-orange left-icon btn-box-shadow btn-rounded fw-600 primary-font ls-0px d-inline-block xs-m-10px"><i class="feather icon-feather-phone-call"></i>0811 1086 180</a>
+                </div>
+                <!-- end footer column -->
+            </div>
+        </div>
+    </section>
 <footer class="pb-30px" style="background-color: #fff">
     <div class="container">
         <div class="mb-5 row xs-mb-30px">
             <div class="order-2 col-xl-5 col-md-7 sm-mb-30px order-xl-1">
-                <h3 class="fw-600 mb-30px ls-minus-2px"> Mitra Terpercaya untuk Kebutuhan Energi Anda!</h3>
+
                 <div class="row">
                     <div class="col-xxl-5 col-sm-6 sm-mb-20px">
                         <span class="fs-18 fw-500 d-block">Email Kami</span>
@@ -11,7 +31,7 @@
                     <div class="col-xxl-5 col-sm-6">
                         <span class="fs-18 fw-500 d-block">Hubungi Kami (24/7)</span>
                         <a href="tel:02175686000" class="text-grey-hover" >021 7568 6000</a><br/>
-                        <a href="tel:08111086180" class="text-grey-hover">0811 1086 180</a>
+                        <a href="https://wa.link/f22nwe" class="text-grey-hover">0811 1086 180</a>
                     </div>
                 </div>
             </div>
@@ -50,3 +70,4 @@
         </div>
     </div>
 </footer>
+</div>

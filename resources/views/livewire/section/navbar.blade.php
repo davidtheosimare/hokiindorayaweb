@@ -119,7 +119,7 @@
                     </div>
                     <div class="header-cart-icon icon">
                         <div class="header-cart dropdown">
-                            <a href="javascript:void(0);"><i class="feather icon-feather-shopping-bag"></i><span class="cart-count alt-font">2</span></a>
+                            <a href="javascript:void(0);"><i class="feather icon-feather-shopping-bag"></i><span class="cart-count alt-font">0</span></a>
                             {{-- <ul class="cart-item-list">
                                 <li class="cart-item align-items-center">
                                     <a href="javascript:void(0);" class="alt-font close">×</a>
