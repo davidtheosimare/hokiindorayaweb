@@ -11,7 +11,7 @@
                     <div class="col-xxl-5 col-sm-6">
                         <span class="fs-18 fw-500 d-block">Hubungi Kami (24/7)</span>
                         <a href="tel:02175686000" class="text-grey-hover" >021 7568 6000</a><br/>
-                        <a href="tel:08111086180" class="text-grey-hover">0811 1086 180</a>
+                        <a href="https://wa.link/f22nwe"" class="text-grey-hover">0811 1086 180</a>
                     </div>
                 </div>
             </div>

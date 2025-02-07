@@ -12,13 +12,13 @@
                                     <span>Kualitas Unggul untuk Kebutuhan Listrik Anda</span>
                                 </div>
                                 <div class="d-inline-block mt-45px sm-mt-30px">
-                                    <a href="#" class="align-middle btn btn-extra-large btn-white btn-rounded btn-switch-text btn-box-shadow d-inline-block me-20px sm-me-10px left-icon">
+                                    <a wire:navigate href="/product" class="align-middle btn btn-extra-large btn-white btn-rounded btn-switch-text btn-box-shadow d-inline-block me-20px sm-me-10px left-icon">
                                         <span>
                                             <span><i class="fa-brands fa-whatsapp"></i></span>
                                             <span class="btn-double-text ls-minus-05px" data-text="Lihat Produk">Lihat Produk</span>
                                         </span>
                                     </a>
-                                    <a href="#" class="text-white btn btn-link btn-hover-animation-switch fw-500 btn-extra-large btn-icon-left xs-mt-15px">
+                                    <a href="https://wa.link/f22nwe"" class="text-white btn btn-link btn-hover-animation-switch fw-500 btn-extra-large btn-icon-left xs-mt-15px">
                                         <span>
                                             <span class="btn-text">Hubungi Kami</span>
                                             <span class="btn-icon"><i class="fa-brands fa-whatsapp"></i></i></span>
@@ -44,13 +44,13 @@
                                     <span>Bisa Pembelian Retail dan Skala Besar</span>
                                 </div>
                                 <div class="d-inline-block mt-45px sm-mt-30px">
-                                    <a href="#" class="align-middle btn btn-extra-large btn-white btn-rounded btn-switch-text btn-box-shadow d-inline-block me-20px sm-me-10px left-icon">
+                                    <a wire:navigate href="/product" class="align-middle btn btn-extra-large btn-white btn-rounded btn-switch-text btn-box-shadow d-inline-block me-20px sm-me-10px left-icon">
                                         <span>
                                             <span><i class="fa-brands fa-whatsapp"></i></span>
                                             <span class="btn-double-text ls-minus-05px" data-text="Lihat Produk">Lihat Produk</span>
                                         </span>
                                     </a>
-                                    <a href="#" class="text-white btn btn-link btn-hover-animation-switch fw-500 btn-extra-large btn-icon-left xs-mt-15px">
+                                    <a href="https://wa.link/f22nwe"" class="text-white btn btn-link btn-hover-animation-switch fw-500 btn-extra-large btn-icon-left xs-mt-15px">
                                         <span>
                                             <span class="btn-text">Hubungi Kami</span>
                                             <span class="btn-icon"><i class="fa-brands fa-whatsapp"></i></i></span>

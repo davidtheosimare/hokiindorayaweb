@@ -166,7 +166,7 @@
                             <img src="/assets/images/icon-add/rocket.png" width="32" height="32" alt="">
                         </div>
                         <div class="feature-box-content text-dark-gray fs-18">
-                            Pesan cepat sesuai apa yang kamu butuhkan. <a href="#" class="text-dark-gray fw-600">Hubungi Kami Sekarang</a>
+                            Pesan cepat sesuai apa yang kamu butuhkan. <a href="https://wa.link/f22nwe"" class="text-dark-gray fw-600">Hubungi Kami Sekarang</a>
                         </div>
                     </div>
                 </div>
