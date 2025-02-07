@@ -578,7 +578,6 @@ b, strong {
     color: var(--dark-gray);
   }
 
-
 .text-base-color-hover:hover {
   color: var(--base-color) !important;
 }
