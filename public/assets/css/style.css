@@ -1,35 +1,4 @@
-/* -------------------------------------------------------
-    Theme Name: Crafto - The Multipurpose HTML5 Template
-    Theme URL: https://craftohtml.themezaa.com/
-    Description: Elevate your online presence with Crafto - a modern, versatile, multipurpose Bootstrap 5 responsive HTML5, SCSS template using highly creative 52+ ready demos.
-    Author: ThemeZaa - https://www.themezaa.com/
-    Author ThemeForest URL: https://themeforest.net/user/themezaa
-    Copyright(c) 2024 themezaa.com
-    Version: 2.0
-------------------------------------------------------- */
-/*
-Table of contents
-    01. Google font
-    02. CSS color variable
-    03. Reset
-    04. Typography
-    05. General
-    06. Background and border
-    07. Width
-    08. Height
-    09. Loop
-    10. Header
-    11. Page title
-    12. Layout
-    13. Elements
-    14. Blog
-    15. Portfolio
-    16. Shop
-    17. Footer
-*/
-/* ===================================
-    01. Google font
-====================================== */
+
 @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap");
 :root {

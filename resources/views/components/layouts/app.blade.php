@@ -14,8 +14,7 @@
     <link rel="stylesheet" href="/assets/css/icon.min.css"/>
     <link rel="stylesheet" href="/assets/css/style.css"/>
     <link rel="stylesheet" href="/assets/css/responsive.css"/>
-    <link rel="stylesheet" href="/assets/demos/green-energy/green-energy.css"/>
-    <link rel="stylesheet" href="/assets/demos/data-analysis/data-analysis.css"/>
+    <link rel="stylesheet" href="/assets/css/main.css"/>
     @yield('meta')
 
 </head>
@@ -30,5 +29,6 @@
 <script type="text/javascript" src="/assets/js/vendors.min.js"></script>
 <script type="text/javascript" src="/assets/js/vendors/swiper-bundle.js"></script>
 <script type="text/javascript" src="/assets/js/main.js"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCA56KqSJ11nQUw_tXgXyNMiPmQeM7EaSA&callback=initMap"></script>
 </body>
 </html>

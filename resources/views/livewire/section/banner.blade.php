@@ -5,7 +5,7 @@
             <div class="swiper-slide" >
                 <div class="container-fluid h-100 g-0">
                     <div class="p-0 row h-100">
-                        <div class="order-2 text-white col-xxl-5 col-lg-6 bg-very-light-green cover-background ps-6 xxl-ps-4 sm-ps-15px order-lg-1 md-pt-50px md-pb-15 xs-pb-20" style="background-image:url('/assets/images/demo-green-energy-slider-left-11.png');" >
+                        <div class="order-2 text-white col-xxl-5 col-lg-6 bg-very-light-green cover-background ps-6 xxl-ps-4 sm-ps-15px order-lg-1 md-pt-50px md-pb-15 xs-pb-20" style="background-image:url('/assets/images/red-bg.png');" >
                             <div class="text-center d-flex justify-content-center align-items-lg-start align-items-center text-lg-start flex-column h-100" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                                 <span class="border-2 fs-15 fw-500 ls-05px mb-20px d-inline-block border-bottom border-color-transparent-white-very-light text-uppercase">Distributor Produk Berkualitas Tinggi</span>
                                 <div class="fs-75 lg-fs-55 fw-600 ls-minus-2px md-w-80 sm-w-100 xs-w-90">
@@ -37,7 +37,7 @@
             <div class="swiper-slide" >
                 <div class="container-fluid h-100 g-0">
                     <div class="p-0 row h-100">
-                        <div class="order-2 text-white col-xxl-5 col-lg-6 bg-very-light-green cover-background ps-6 xxl-ps-4 sm-ps-15px order-lg-1 md-pt-50px md-pb-15 xs-pb-20" style="background-image:url('/assets/images/demo-green-energy-slider-left-12.png');" >
+                        <div class="order-2 text-white col-xxl-5 col-lg-6 bg-very-light-green cover-background ps-6 xxl-ps-4 sm-ps-15px order-lg-1 md-pt-50px md-pb-15 xs-pb-20" style="background-image:url('/assets/images/red-bg.png');" >
                             <div class="text-center d-flex justify-content-center align-items-lg-start align-items-center text-lg-start flex-column h-100" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                                 <span class="border-2 fs-15 fw-500 ls-05px mb-20px d-inline-block border-bottom border-color-transparent-white-very-light text-uppercase">"Belanja Mudah, Semua Kebutuhan</span>
                                 <div class="fs-75 lg-fs-55 fw-600 ls-minus-2px md-w-80 sm-w-100 xs-w-90">
