@@ -7,8 +7,8 @@
                     <h2 class="mb-0 opacity-9 fw-300">Kami memastikan kepuasan pelanggan</h2>
                 </div>
                 <div class="col-md-6">
-                    <div class="h-100 position-relative cover-background sm-pt-50px" style="background-image: url('https://placehold.co/960x446');" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
-                        <div class="text-center text-white fs-140 xl-fs-120 lg-fs-100 md-fs-80 ls-minus-6px md-ls-minus-4px sm-ls-minus-2px position-absolute bottom-minus-20px sm-bottom-minus-10px w-100"><span class="fw-700">69</span> office</div>
+                    <div class="h-100 position-relative cover-background sm-pt-50px" style="background-image: url('/assets/images/new/automation-systems.png');" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
+                        <div class="text-center text-white fs-140 xl-fs-120 lg-fs-100 md-fs-80 ls-minus-6px md-ls-minus-4px sm-ls-minus-2px position-absolute bottom-minus-20px sm-bottom-minus-10px w-100 text-shadow-large"><span class="fw-700">24/7</span> Online</div>
                     </div>
                 </div>
             </div>
@@ -27,7 +27,7 @@
                         </div>
                         <h3 class="text-dark-gray fw-700 ls-minus-2px mb-20px">Layanan Pelanggan yang Profesional dan Responsif.</h3>
                         <p>Dengan layanan profesional dan perhatian, kami memastikan kepuasan pelanggan. Kami berkomitmen menjadi mitra terbaik yang responsif dan siap memberikan solusi cepat. Untuk informasi lebih lanjut, hubungi admin kami melalui nomor atau media sosial di bawah ini. </p>
-                        <a href="#" class="btn btn-large btn-base-color btn-rounded btn-switch-text left-icon btn-box-shadow">
+                        <a href="https://wa.link/f22nwe" class="btn btn-large btn-base-color btn-rounded btn-switch-text left-icon btn-box-shadow">
                             <span>
                                 <span><i class="bi bi-telephone-outbound"></i></span>
                                 <span class="btn-double-text" data-text="Hubungi Kami Sekarang">Hubungi Kami Sekarang</span>
@@ -41,7 +41,7 @@
                         <div class="col services-box-style-02 mb-30px">
                             <div class="overflow-hidden row g-0 box-shadow-quadruple-large border-radius-6px">
                                 <div class="col-lg-6 col-sm-6">
-                                    <div class="h-100 cover-background xs-h-300px" style="background-image: url(https://placehold.co/350x350)"></div>
+                                    <div class="h-100 cover-background xs-h-300px" style="background-image: url(/assets/images/new/contact.png)"></div>
                                 </div>
                                 <div class="bg-white col-lg-6 col-sm-6 box-shadow-extra-large p-40px xl-p-30px">
                                     <div class="services-box-content last-paragraph-no-margin">
