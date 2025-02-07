@@ -1,0 +1,94 @@
+
+.google-maps-link a:hover {
+    color: var(--white);
+}
+/* custom cursor */
+.custom-cursor .circle-cursor-inner {
+    background-color: var(--dark-gray);
+}
+.custom-cursor .circle-cursor-inner.cursor-link-hover {
+    background-color: var(--dark-gray);
+}
+.custom-cursor .circle-cursor-outer {
+    border: 1px solid var(--dark-gray);
+    opacity: .3;
+}
+/* pricing table style 04 */
+.pricing-table-style-04 .accordion-item.active-accordion {
+    background-color: var(--dark-gray) !important;
+}
+/* process-step style 05 */
+.process-step-style-05 .progress-step-separator {
+    bottom: inherit;
+    height: 100%;
+}
+.team-style-01 figure figcaption .social-icon a {
+    margin: 0 7px;
+}
+/* page title style */
+.page-title-button-style h1 {
+    padding: 5px 20px;
+    display: inline-block;
+    font-size: 12px;
+}
+.page-title-extra-small h2 {
+    font-size: 3.438rem;
+    line-height: 3.2rem;
+}
+/* footer */
+footer {
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+footer .nav-link {
+    color: var(--dark-gray);
+    padding: 10px 20px;
+}
+footer .elements-social ul li:last-child {
+    margin-right: 0;
+}
+@media (max-width: 1350px) {
+    .navbar .navbar-nav .nav-link {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
+@media (max-width: 1279px) {
+    .navbar .navbar-nav .nav-link {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+@media (max-width: 1199px) {
+    .navbar .navbar-nav .nav-link {
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+    footer {
+        padding-top: 80px;
+    }
+}
+@media (max-width: 991px) {
+    footer {
+        padding-top: 65px;
+    }
+    .md-bottom-5 {
+        bottom: 5% !important;
+    }
+    footer .nav-link {
+        padding: 5px 15px;
+    }
+}
+@media (max-width: 767px) {
+    footer {
+        padding-top: 50px;
+    }
+}
+@media (max-width: 575px) {
+    .xs-mt-minus-40px {
+        margin-top: -40px !important;
+    }
+    .accordion .accordion-item .accordion-header .accordion-title {
+        line-height: 28px;
+    }
+}
