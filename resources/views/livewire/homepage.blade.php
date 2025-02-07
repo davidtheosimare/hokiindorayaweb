@@ -59,9 +59,9 @@
         <div class="container h-100">
             <div class="row align-items-center h-100">
                 <div class="text-white col-xl-7 col-md-9 col-sm-9 position-relative appear anime-child anime-complete" data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;opacity&quot;: [0, 1], &quot;translateY&quot;: [30, 0], &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeInOutSine&quot; }">
-                    <div class="fs-75 lh-75 sm-fs-65 fw-600 mb-20px text-shadow-large ls-minus-2px" >Wujudkan Proyek Anda dengan Hokiindo Raya.</div>
+                    <div class="fs-75 lh-75 sm-fs-65 fw-600 mb-20px text-shadow-large ls-minus-2px" >Wujudkan Proyek Anda</div>
                     <div style="">
-                        <span class="fs-15 w-70 md-w-85 mb-25px fw-300 d-inline-block text-shadow-large" style="color:white;line-height:1.6"> Hokiindo Raya adalah distributor produk listrik profesional di Tangerang Selatan, berkomitmen menyediakan solusi kelistrikan berkualitas tinggi untuk kebutuhan industri, konstruksi, dan proyek besar. Kami menawarkan produk unggulan dan layanan pelanggan responsif, memastikan proyek Anda berjalan lancar dan aman.</span>
+                        <span class="fs-15 w-70 md-w-85 mb-25px fw-300 d-inline-block text-shadow-large" style="color:white;line-height:1.6"> Hokiindo Raya adalah distributor produk listrik profesional di Tangerang Selatan, berkomitmen menyediakan solusi kelistrikan berkualitas tinggi untuk kebutuhan industri, konstruksi, dan proyek besar. </span>
                     </div>
                     <div class="icon-with-text-style-08" style="">
                         <div class="feature-box feature-box-left-icon-middle">
