@@ -36,7 +36,7 @@
                 <a class="navbar-brand" wire:navigate href="/">
                     <img src="/assets/images/logo-merah-hitam-hoki.png" data-at2x="/assets/images/logo-merah-hitam-hoki.png" alt="" class="default-logo">
                     <img src="/assets/images/logo-merah-hitam-hoki.png" data-at2x="/assets/images/logo-merah-hitam-hoki.png" alt="" class="alt-logo">
-                    <img src="/assets/images/new/logo-mobile.png" data-at2x="/assets/images/logo-merah-hitam-hoki.png" alt="" class="mobile-logo">
+                    <img src="/assets/images/new/logo-mobile.png" data-at2x="/assets/images/logo-merah-hitam-hoki.png" alt="" class="mobile-logo" >
                 </a>
             </div>
             <div class="col-auto menu-order position-static xs-ps-0">
