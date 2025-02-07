@@ -26,7 +26,7 @@
                 <div class="row">
                     <div class="col-xxl-5 col-sm-6 sm-mb-20px">
                         <span class="fs-18 fw-500 d-block">Email Kami</span>
-                        <a href="mailto:info@yourdomain.com" class="text-grey-hover">info@hokiindo.co.id</a>
+                        <a href="mailto:info@hokiindo.co.id" class="text-grey-hover">info@hokiindo.co.id</a>
                     </div>
                     <div class="col-xxl-5 col-sm-6">
                         <span class="fs-18 fw-500 d-block">Hubungi Kami (24/7)</span>
