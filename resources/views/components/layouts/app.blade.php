@@ -21,14 +21,13 @@
 <body>
 @livewire('section.navbar')
 {{$slot}}
-
 @livewire('section.footer')
 @livewireScripts
-
 <script type="text/javascript" src="/assets/js/jquery.js"></script>
 <script type="text/javascript" src="/assets/js/vendors.min.js"></script>
 <script type="text/javascript" src="/assets/js/vendors/swiper-bundle.js"></script>
+@yield('AddOnJS')
 <script type="text/javascript" src="/assets/js/main.js"></script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCA56KqSJ11nQUw_tXgXyNMiPmQeM7EaSA&callback=initMap"></script>
+
 </body>
 </html>

@@ -26,8 +26,8 @@
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="text-center col-xl-5 col-lg-6 col-md-9 md-mb-50px text-lg-start appear anime-child anime-complete" data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
-                    <span class="bg-solitude-blue text-uppercase fs-13 ps-25px pe-25px alt-font fw-600 text-base-color lh-40 sm-lh-55 border-radius-100px d-inline-block mb-25px" style="">Tentang Hokiindo Raya </span>
-                    <h3 class="mx-auto alt-font text-dark-gray fw-600 ls-minus-1px mb-20px sm-w-85 xs-w-100" style="">Distributor Resmi dari Brand Unggulan</h3>
+                    <span class="bg-solitude-blue text-uppercase fs-13 ps-25px pe-25px alt-font fw-600 text-base-color lh-40 sm-lh-55 border-radius-100px d-inline-block mb-25px" style="">Hokiindo Raya </span>
+                    <h3 class="mx-auto alt-font text-dark-gray fw-600 ls-minus-1px mb-20px sm-w-85 xs-w-100" style="">Distributor Resmi dari Brand Ternama!</h3>
                     <p style="">Sebagai mitra resmi Siemens dan Shenzen Coming Technology, kami menjamin semua produk yang kami sediakan 100% asli dan sesuai standar internasional.
                         Semua produk yang kami sediakan telah melalui uji kualitas dan sesuai dengan standar internasional.</p>
                     <div class="flex-row d-flex justify-content-center justify-content-lg-start align-items-center mt-35px" style="">
@@ -37,13 +37,13 @@
                             <canvas height="120" width="120" style="margin-right: -125px;"></canvas></span>
                         </div>
                         <div class="text-start">
-                            <span class="fs-20 lh-28 text-dark-gray alt-font fw-500 d-inline-block w-70 xs-w-100">Jaminan Produk <span class="text-decoration-line-bottom-medium fw-600 text-base-color">Orisinil dan Standard Internasional</span></span>
+                            <span class="fs-20 lh-28 text-dark-gray alt-font fw-500 d-inline-block w-70 xs-w-100">Jaminan Produk <span class="text-decoration-line-bottom-medium fw-600 text-base-color"> Original dan Berstandar Internasional</span></span>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 offset-xl-1 position-relative">
                     <div class="text-end w-80 md-w-75 ms-auto shadow-in skrollable skrollable-between" data-animation-delay="500" data-shadow-animation="true" data-bottom-top="transform: translateY(50px)" data-top-bottom="transform: translateY(-50px)" style="transform: translateY(34.9853px);">
-                        <img src="/assets/images/new/siemens.jpg" alt="" class="border-radius-5px" data-no-retina="">
+                        <img src="/assets/images/new/panel-700px.jpg" alt="" class="border-radius-5px" data-no-retina="">
                     </div>
                     <div class="overflow-hidden w-60 md-w-50 xs-w-55 position-absolute left-15px bottom-minus-50px shadow-in skrollable skrollable-between" data-shadow-animation="true" data-animation-delay="500" data-bottom-top="transform: translateY(-50px)" data-top-bottom="transform: translateY(50px)" style="transform: translateY(-44.1573px);">
                         <img src="/assets/images/new/siemens-product.jpg" alt="" class="border-radius-5px box-shadow-quadruple-large" data-no-retina="">
@@ -55,7 +55,7 @@
 
 
 
-    <section class="p-0 top-space-margin full-screen md-h-600px sm-h-500px section-dark bg-section-home" data-parallax-background-ratio="0.8" style="background-image: url('/assets/images/new/siemens-panel-2.jpg'); background-position: 50% 112.8px; margin-top: 141px; height: 600px;">
+    <section class="p-0 top-space-margin full-screen md-h-600px sm-h-500px section-dark bg-section-home" data-parallax-background-ratio="0.8" style="background-image: url('/assets/images/new/hokiindo-panel-cta.jpg'); background-position: 50% 112.8px; margin-top: 141px; height: 600px;">
         <div class="container h-100">
             <div class="row align-items-center h-100">
                 <div class="text-white col-xl-7 col-md-9 col-sm-9 position-relative appear anime-child anime-complete" data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;opacity&quot;: [0, 1], &quot;translateY&quot;: [30, 0], &quot;staggervalue&quot;: 200, &quot;easing&quot;: &quot;easeInOutSine&quot; }">

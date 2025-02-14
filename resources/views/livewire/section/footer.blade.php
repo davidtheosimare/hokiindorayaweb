@@ -1,12 +1,13 @@
 <div>
-    <section data-parallax-background-ratio="0.5" style="background-image: url('/assets/images/new/cta-bg.jpg'); background-position: 50% 42.5391px;">
+    <section data-parallax-background-ratio="0.5" style="background-image: url('/assets/images/new/cta-bg-2.jpg'); background-position: 50% 42.5391px;">
         <div class="opacity-medium bg-slate-blue"></div>
         <div class="container position-relative">
             <div class="row align-items-center justify-content-center">
                 <!-- start footer column -->
                 <div class="text-center col-xl-6 text-xl-start lg-mb-30px">
                     <h3 class="text-white mb-5px fw-600 ls-minus-1px">Dapatkan Layanan Konsultasi</h3>
-                    <span class="fs-19 widget-text fw-300">Kami Siap Menyediakan Kebutuhan Anda Kapanpun. Hubungi Kami Tanpa Ragu!</span>
+                    <span class="fs-19 widget-text fw-300">Konsultasi dengan kami sekarang juga untuk solusi kebutuhan listrik Anda!
+                        Mitra Terbaik untuk Semua Kebutuhan Listrik Anda!</span>
                 </div>
                 <!-- end footer column -->
                 <!-- start footer column -->
