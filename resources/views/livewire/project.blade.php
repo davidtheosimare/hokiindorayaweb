@@ -1,4 +1,8 @@
 <div>
+    @livewire('section.maintenance')
+</div>
+
+{{-- <div>
      <!-- start page title -->
      <section class="pb-0 ipad-top-space-margin md-pt-0">
         <div class="container">
@@ -86,4 +90,4 @@
             </div>
         </div>
     </section>
-</div>
+</div> --}}
