@@ -1,4 +1,8 @@
 <div>
+    @livewire('section.maintenance')
+</div>
+
+{{-- <div>
 
     <!-- start section -->
     <section class="pt-0 overflow-hidden position-relative">
@@ -846,4 +850,4 @@
         });
     });
 </script>
-@endsection
+@endsection --}}

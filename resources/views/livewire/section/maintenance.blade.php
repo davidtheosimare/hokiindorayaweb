@@ -10,7 +10,7 @@
                     <h1 class="fw-700 fs-70 mb-10px text-dark-gray ls-minus-2px">Fitur Akan Hadir!</h1>
                     <h6 class="mb-0 text-dark-gray">Kami sedang persiapkan untuk Anda</h6>
                     <div class="countdown-style-03 mb-9 mt-9">
-                        <div data-enddate="2025/02/10 12:00:00" class="countdown"></div>
+                        <div data-enddate="2025/02/20 12:00:00" class="countdown"></div>
                     </div>
                     <div class="elements-social social-icon-style-08">
                         <ul class="medium-icon dark">
